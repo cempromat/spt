@@ -5,7 +5,7 @@ const themeButton = document.querySelector("#theme-btn");
 const deleteButton = document.querySelector("#delete-btn");
 
 let userText = null;
-const API_KEY = "AIzaSyBeKWgO61jUz_R7V3J41whvi3Q3uPzXee0"; // Paste your API key here
+const API_KEY = "AIzaSyAWHR2JWVTSh85JAGin5iRIzYkwwhWEDs0"; // Paste your API key here
 
 const loadDataFromLocalstorage = () => {
     // Load saved chats and theme from local storage and apply/add on the page
